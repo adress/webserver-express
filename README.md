@@ -1,4 +1,4 @@
-## simple web server
+## simple web server, heroku deploy
 
 use
 ```
